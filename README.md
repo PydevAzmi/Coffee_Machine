@@ -6,11 +6,11 @@ this is a small coffee machine with an easy commends that enable you to make a c
 #### off - enable you to close the machine.
 #### money suppported : 
   quarters = 0.25$. 
-  dimes = 0.10$.
-  pennies = 0.01$.  
-  nickles = 0.05$.
+  dimes = 0.10$,  
+  pennies = 0.01$,    
+  nickles = 0.05$,  
 #### coffee price :
-  latte  = 2.50$.
-  Espresso = 1.50$.
+  latte  = 2.50$, 
+  Espresso = 1.50$, 
   cappuccino = 3.00$.
   
