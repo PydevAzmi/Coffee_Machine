@@ -5,7 +5,7 @@ this is a small coffee machine with an easy commends that enable you to make a c
 #### report - use to give you a report with ingrediants that make a coffee like water, milk and coffee.
 #### off - enable you to close the machine.
 #### money suppported : 
-  quarters = 0.25$. 
+  quarters = 0.25$,  
   dimes = 0.10$,  
   pennies = 0.01$,    
   nickles = 0.05$,  
